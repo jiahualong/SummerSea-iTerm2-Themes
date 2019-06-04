@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>info</key>
+	<dict>
+		<key>appVersion</key>
+		<string>3250</string>
+		<key>author</key>
+		<string>hualong</string>
+		<key>identifier</key>
+		<string>QingGe-黑白</string>
+		<key>lastModified</key>
+		<date>2019-06-03T02:50:24Z</date>
+		<key>name</key>
+		<string>我的清歌-黑白</string>
+	</dict>
+	<key>panel</key>
+	<dict>
+		<key>alpha</key>
+		<real>0.98799997568130493</real>
+		<key>backgroundColor</key>
+		<string>2A2A2A</string>
+		<key>borderHeight</key>
+		<real>7</real>
+		<key>borderWidth</key>
+		<real>7</real>
+		<key>cornerRadius</key>
+		<real>5</real>
+		<key>lineSpace</key>
+		<real>3</real>
+	</dict>
+	<key>textColor</key>
+	<dict>
+		<key>codeBackgroundColor</key>
+		<string></string>
+		<key>codeForegroundColor</key>
+		<string>BDC3C7</string>
+		<key>highlightedBackgroundColor</key>
+		<string></string>
+		<key>highlightedForegroundColor</key>
+		<string>EFEFEF</string>
+		<key>modeStringBackgroundColor</key>
+		<string>EFEFEF</string>
+		<key>modeStringForegroundColor</key>
+		<string>000000</string>
+		<key>subtextBackgroundColor</key>
+		<string></string>
+		<key>subtextForegroundColor</key>
+		<string>999999</string>
+		<key>textBackgroundColor</key>
+		<string></string>
+		<key>textForegroundColor</key>
+		<string>BDC3C7</string>
+	</dict>
+	<key>textFont</key>
+	<dict>
+		<key>name</key>
+		<string>Helvetica</string>
+		<key>size</key>
+		<real>20</real>
+	</dict>
+</dict>
+</plist>

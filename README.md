@@ -20,4 +20,17 @@
 ![夏日深海主题 Summer Sea Light 预览](./README/priview-SummerSeaLight.png)
 
 
+# 清歌输入法主题
+
+    * 清歌Dark主题
+
+## 预览图
+
+    * 清歌Dark主题
+
+![Dark](./README/priview-qingg-dark.png)
+
+
+
+
 
