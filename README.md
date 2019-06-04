@@ -28,7 +28,8 @@
 
     * 清歌Dark主题
 
-![Dark](./README/priview-qingg-dark.png)
+![清歌Dark主题](./README/priview-qingg-dark.png)
+
 
 
 
